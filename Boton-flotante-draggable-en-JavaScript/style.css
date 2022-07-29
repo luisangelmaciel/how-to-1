@@ -29,16 +29,16 @@ body {
     display: flex;
     flex-wrap: nowrap;
     align-items: center;
-    border-radius: 90px;
+    border-radius: 10px;
     background: #fff;
-    padding: 0 1px 0 2em;
+    padding: 2em 3em 2em 3em;
     height: auto;
 }
 
 #floating-menu-container>#floating-menu-content-wrapper>#floating-menu-content>#floating-menu-info-txt {
     font-size: 1.2em;
     margin: 0 25px;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 #floating-menu-container>#floating-menu-content-wrapper>#floating-menu-content>#floating-menu-info-txt>a#floating-menu-info-link {
@@ -48,7 +48,7 @@ body {
 }
 
 #floating-menu-container>#floating-menu-content-wrapper>#floating-menu-content>#floating-menu-logo {
-    margin-top: 4px;
+    margin-top: 10px;
 }
 
 #floating-menu-logo,
